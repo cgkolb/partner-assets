@@ -1,0 +1,2 @@
+# gridwise-assets
+logos
